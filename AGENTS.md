@@ -13,16 +13,10 @@
 
 ## 브랜치 규칙
 
-기본 형식은 다음과 같다.
+브랜치는 다음 형식을 사용한다.
 
 ```text
 <type>/<short-description>
-```
-
-Codex가 만드는 브랜치는 작업 추적을 위해 다음 형식을 사용한다.
-
-```text
-codex/<type>/<short-description>
 ```
 
 사용하는 type은 다음과 같다.
